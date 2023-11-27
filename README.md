@@ -1,4 +1,5 @@
-# 🍿My Favorite Action Movies and K-dramas series 🎥 
+# 🍿 ![image](https://github.com/notchaeyoung/app-dev/assets/152185380/1dc340aa-b473-473e-b53d-e8f560cd81ed)
+My Favorite Action Movies and K-dramas series 
 > ### *Top 1*
 >>
 > |Action Movie|K-Drama Series|
