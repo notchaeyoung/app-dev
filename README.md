@@ -1,9 +1,9 @@
-# 🍿My Favorite movies and series🎥 
+# 🍿My Favorite Movies and K-dramas series 🎥 
 > ### *Top 1*
 >>
 > |Movie|Series|
 > |:-:|:-:|
-> | **[Top Gun: Maverick](https://dopebox.to/watch-movie/watch-top-gun-maverick-online-hd-5448.8336722)** | **[Demon Slayer](https://www.bilibili.tv/en/play/1033760?bstar_from=bstar-web.pgc-video-detail.related-recommend.all)** |
+> | **[Top Gun: Maverick](https://dopebox.to/watch-movie/watch-top-gun-maverick-online-hd-5448.8336722)** | **[Something in the Rain](https://www.bilibili.tv/en/video/2043835408?bstar_from=bstar-web.homepage.recommend.all)** |
 
 > ### *Top 2*
 >>
